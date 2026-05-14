@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Gustavo! A math student and data analyst
+I'm Gustavo! A math student and data analyst.
 <!--
 **doppioanalytics/doppioanalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
